@@ -1,4 +1,4 @@
-# Bici v1
+# Bici v2
 
 Privacy Policy of Bici
  
